@@ -1,5 +1,10 @@
 # Salience Rank
 
-The Salience Rank code is currently unavailable due to a license issue.
+The source code is currently unavailable due to a license issue. Please refer to the paper below for implementation details:
 
-Teneva, Nedelina, and Weiwei Cheng. "<i>Salience rank: efficient keyphrase extraction with topic modeling.</i>" Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). Vol. 2. 2017.
+Nedelina Teneva, Weiwei Cheng.\
+_Salience Rank: Efficient Keyphrase Extraction with Topic Modeling_\
+Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, Vol. 2: 530-535, ACL\
+Vancouver, Canada, July 2017
+
+URL: http://www.aclweb.org/anthology/P17-2084
